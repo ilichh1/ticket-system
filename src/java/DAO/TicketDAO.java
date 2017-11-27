@@ -9,6 +9,7 @@ import bean.Persona;
 import bean.Producto;
 import bean.Reporte;
 import hbm.HibernateUtil;
+import java.util.List;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 
@@ -22,6 +23,15 @@ public class TicketDAO {
     public TicketDAO() {
         session = HibernateUtil.getLocalSession();
     }
+    
+    // Get all
+    
+    public List<Reporte> getAllReportes() {
+        return (List<Reporte>) this.session.createCriteria(Reporte.class)
+                .list();
+    }
+    
+    // Save all
     
     public boolean saveProducto(Reporte prod){
         try {
