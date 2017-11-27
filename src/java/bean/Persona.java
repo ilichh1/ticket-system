@@ -17,7 +17,7 @@ import javax.persistence.Table;
  */
 
 @Entity 
-@Table(name="persona",catalog="foliosDB")
+@Table(name="persona")
 public class Persona {
     
     @Id @GeneratedValue

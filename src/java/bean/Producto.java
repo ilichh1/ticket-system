@@ -16,7 +16,7 @@ import javax.persistence.Table;
  * @author tank3
  */
 @Entity 
-@Table(name="producto",catalog="foliosDB")
+@Table(name="cproducto")
 public class Producto {
    
     @Id @GeneratedValue
