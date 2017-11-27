@@ -51,7 +51,7 @@ Nos reservamos el derecho de bloquear a cualquier usuario que inflija estos term
 
 # **Ticket System**
 
-"Ticket System is a ticket regitry platform for your equipements warranty, its availible for all OS큦, it큦 possible to connect to Ticket System  with devices like:
+"Ticket System is a ticket registry platform for your equipements warranty, its availible for all OS큦, it큦 possible to connect to Ticket System  with devices like:
 Android, iPhone, Windows Phone, PC... etc since we use the web browser.  
 Also **Ticket System** uses the same data plan as you use for your e-mail, there is no extra charge"
 
@@ -60,7 +60,7 @@ Also **Ticket System** uses the same data plan as you use for your e-mail, there
 To get started with **Ticket System** just follow this simple instruction:
 
 1. Acces to **site큦 URL**.  
-2. Go to the button of the main page and you will find the registry formulary.  
+2. Go to the bottom of the main page and you will find the registry formulary.  
 3. Input your info such as:  
     - Name  
     - E-mail  
@@ -93,4 +93,4 @@ This project is based on GPLv3+: http://www.gnu.org/licenses/gpl-3.0.html licens
 
 
 # **Therms and conditions**
-You sahll not use this app for **Marketing** (SPAM) pourpusses.  
+You shall not use this app for **Marketing** (SPAM) pourpusses.  
