@@ -47,7 +47,9 @@ Contributor(s):
     <property name="hibernate.connection.username">root</property>
     <property name="hibernate.connection.password">Flies4thesky</property>
     
-    <mapping class=""/>
+    <mapping class="bean.Reporte"/>
+    <mapping class="bean.Producto"/>
+    <mapping class="bean.Persona"/>
     
   </session-factory>
 </hibernate-configuration>
